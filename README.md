@@ -1,14 +1,21 @@
-⇁ Information
+# ⇁ Information
+
 Written for PocketMine-MP and spoons
 Maintained by @mario6413
-⇁ Features
+
+# ⇁ Features
+
 Simple UI
 Island Creation and Management
 Island Member Management
 more features
-⇁ Installation
+
+# ⇁ Installation
+
 Download the latest stable release. Releases can be found at GitHub Releases.
 Place it on your server directory's plugins folder.
 Stop an current instance of the server and start it.
-⇁ Dependencies
+
+# ⇁ Dependencies
+
 RedSkyBlock by RedCraftGH
